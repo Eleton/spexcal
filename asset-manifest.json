@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/spexcal/static/css/main.55cff9c4.css",
+    "main.js": "/spexcal/static/js/main.3d85edc6.js",
+    "static/js/787.49fa2a0f.chunk.js": "/spexcal/static/js/787.49fa2a0f.chunk.js",
+    "index.html": "/spexcal/index.html",
+    "main.55cff9c4.css.map": "/spexcal/static/css/main.55cff9c4.css.map",
+    "main.3d85edc6.js.map": "/spexcal/static/js/main.3d85edc6.js.map",
+    "787.49fa2a0f.chunk.js.map": "/spexcal/static/js/787.49fa2a0f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55cff9c4.css",
+    "static/js/main.3d85edc6.js"
+  ]
+}
