@@ -1,8 +1,6 @@
 import { useState } from "react";
 import styled from "styled-components";
 import TagChooser from "./TagChooser";
-import Timeline from "./Timeline";
-import MonthLines from "./MonthLines";
 import Calendar from "./Calendar";
 import Graph from "./Graph";
 import rawData from "./data.json";

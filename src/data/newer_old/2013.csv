@@ -8,17 +8,13 @@ raw,datum,beskrivning,tag
 "8/12 Premiär, Södra Teatern",8/12,"Premiär, Södra Teatern",show
 "9/12 Föreställning, Södra Teatern",9/12,"Föreställning, Södra Teatern",show
 6/2-9/2 Finlandsturné,6/2-9/2,Finlandsturné,tour
-8/2 Föreställning Finland,8/2,Föreställning Finland,show
-"16/2 Omgång 2, Södran",16/2,"Omgång 2, Södran",show
-"17/2 Omgång 2, Södran",17/2,"Omgång 2, Södran",show
-"18/2 Omgång 2, Södran",18/2,"Omgång 2, Södran",show
-24/3: Omgång 3,24/3,Omgång 3,show
-25/3: Omgång 3,25/3,Omgång 3,show
-26/3: Omgång 3,26/3,Omgång 3,show
+"16/2-18/2 Omgång 2, Södran",16/2-18/2,"Omgång 2, Södran",show
+24/3-26/3: Omgång 3,24/3-26/3,Omgång 3,show
 29/3: Gamla spexare-festen,29/3,Gamla spexare-festen,party
 2/4: Vårmöte,2/4,Vårmöte,meeting
 3/5-10/5: Quarnevalen,3/5-10/5,Quarnevalen,other
 17/5-18/5: Osqvik,17/5-18/5,Osqvik,party
+31/8-3/9: N0lleomgång,31/8-3/9,N0lleomgång,show
 31/8 Sista öppna föreställningen (sälj sälj sälj!). Tidig samling på teatern.,31/8,Sista öppna föreställningen (sälj sälj sälj!). Tidig samling på teatern.,show
 "1/8 n0lleföreställning, köpt av KTH för n0llan. Samling nån gång efter lunch",1/8,"n0lleföreställning, köpt av KTH för n0llan. Samling nån gång efter lunch",show
 2/8 Föreställning abonnerad av KTHs externa relationer. Samling nån gång efter lunch,2/8,Föreställning abonnerad av KTHs externa relationer. Samling nån gång efter lunch,show

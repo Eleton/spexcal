@@ -65,7 +65,7 @@ const Graph = ({ data, tag }) => {
   );
 
   return (
-    <svg width={1200} height={920} viewBox={`0 0 128 60`}>
+    <svg width={920} height={600} viewBox={`0 0 128 60`}>
       <line x1="8" x2="120" y1="60" y2="60" stroke={colors.light.primary} />
       <line x1="8" x2="8" y1="60" y2="-10" stroke={colors.light.primary} />
       <line
