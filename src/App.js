@@ -27,6 +27,8 @@ const Main = styled.main`
 const Options = styled.div`
   display: flex;
   justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 16px;
 `;
 
 const Links = styled.div`
