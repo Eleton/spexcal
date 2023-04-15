@@ -60,7 +60,7 @@ const SvgContainer = styled.div`
   overflow: auto;
 `;
 
-const data = rawData.slice(0, 12);
+const data = rawData.slice(0, 13);
 
 const App = () => {
   const [tag, setTag] = useState("");

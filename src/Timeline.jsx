@@ -14,6 +14,7 @@ const yearToTitle = {
   2018: "Agatha Christie",
   2019: "Cecilia Vasa",
   2020: "Bernadötte",
+  2021: "Bernadotte",
 };
 
 const tagToColor = (event) => {
@@ -36,7 +37,7 @@ const tagToColor = (event) => {
 };
 
 const EventContainer = styled.g`
-  opacity: ${({ highlighted }) => (!highlighted ? 0.3 : 1)};
+  opacity: ${({ highlighted }) => (!highlighted ? 0.2 : 1)};
   &:hover p {
     display: block;
   }
